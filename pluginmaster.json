@@ -1,0 +1,29 @@
+[
+  {
+    "Author": "UnknownX, AtmoOmen, Nynpsu",
+    "Name": "A Realm Recorded Lite",
+    "InternalName": "ARealmRecordedLite",
+    "AssemblyVersion": "1.0.6.1",
+    "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」\n\n修复包含大量剧情过场的长副本录像在快进时偶发内存异常崩溃的问题。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kyroli/ARealmRecordedLite",
+    "Punchline": "A Realm Recorded 精简版",
+    "Tags": [
+      "ARealmRecordedLite",
+      "ARealmRecorded",
+      "Record",
+      "录像",
+      "回放"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/ARealmRecorded/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/kyroli/ARealmRecordedLite/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kyroli/ARealmRecordedLite/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/kyroli/ARealmRecordedLite/releases/latest/download/latest.zip",
+    "DownloadCount": 0
+  }
+]
